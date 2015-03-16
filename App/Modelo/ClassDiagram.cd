@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App.Modelo.Person" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAMgAAACgQAAAIEAIAGAAAABAAAAgA=</HashCode>
+      <FileName>Modelo\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.Package">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEgAAgCBAAIGAQAIBgAAAAAAAIAAA=</HashCode>
+      <FileName>Modelo\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.TwoDayPackage">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAACAAAAAAAAIAAEAAAABAAAAA=</HashCode>
+      <FileName>Modelo\TwoDayPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.OvernightPackage">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEgAAACAAAAAAAAIAAAAAAEAAAAAA=</HashCode>
+      <FileName>Modelo\OvernightPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.Bills" Collapsed="true">
+    <Position X="10.25" Y="0.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAECAIABAAAAAAAEAAgAAAAAAAAAAIABAAAAAQAAAgA=</HashCode>
+      <FileName>Modelo\Bills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
