@@ -8,6 +8,7 @@ namespace App.Datos
 {
     public class BillsRepositories
     {
+       
 
             static List<Bills> data = new List<Bills>();
 

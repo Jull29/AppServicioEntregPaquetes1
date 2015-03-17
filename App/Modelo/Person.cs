@@ -76,14 +76,14 @@ namespace App.Modelo
         #region "Métodos SobreEscritos"
         public override string ToString()
         {
-             return "\n_______________________________________" +
+             return "\n" +
                                 "\nIdentification: " + this.id +
                                 "\nNames: " + this.name +
                                 "\nAddress: " + this.address +
                                 "\nCity: " + this.city +
                                 "\nState/Province: " + this.state +
                                 "\nPostal Code: " + this.box +
-                                "\n_______________________________________";
+                                "\n";
         }
         public override int GetHashCode()
         {
